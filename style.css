@@ -1,0 +1,79 @@
+* {
+margin-top: -3px;
+}
+
+#container {
+margin-right:10%;
+}
+
+#cityTop {
+position:relative;
+top:-200px;
+margin-left: auto;
+margin-right: auto;
+overflow:hidden;
+max-width: 90%;
+max-height:100%;
+z-index:-2;
+}
+
+#roundLogo {
+width:100px;
+position:absolute;
+top:494px;
+left:120px;
+margin-top:-232px;
+z-index:1;
+}
+
+.newTIYClass {
+background-color: white;
+display:block;
+float:right;
+font-family: Open Sans, sans-serif;
+font-size: 20px;
+color:#30373d;
+float:right;
+margin:-293px 5px 10px 5px;
+padding: 10px 6px 10px 6px;
+}
+
+h2 {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+p {
+  font-family: 'PT Serif', serif;
+}
+
+#campusDirector {
+font-style:italic;
+font-size:.8em;
+padding: 10px 0 10px 0;
+}
+
+#classroom {
+padding: 10px 0 10px 0;
+}
+
+.tiyHouston {
+float:right;
+padding: 10px 45px 5px 10px;
+margin: -293px 5px 10px 5px;
+background-color:white;
+color:#4e545c;
+font-size:.95em;
+}
+
+#whiteBackground {
+height:200px;
+width:100%;
+position:absolute;
+margin-top:-313px;
+background-color:white;
+z-index:-1;
+}
+
+label {
+color:#b3b3b3;
+}
